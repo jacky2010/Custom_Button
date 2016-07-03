@@ -33,6 +33,7 @@ với
 > disabled 
 ` android:enabled="false"` </br>
 ###link app tham khảo
-(![https://github.com/trantronghien/chat](https://cloud.githubusercontent.com/assets/13708331/16546087/e7cb164e-4169-11e6-8657-b17440b0f834.png))
+<a href='https://github.com/trantronghien/chat'><img src='https://cloud.githubusercontent.com/assets/13708331/16546087/e7cb164e-4169-11e6-8657-b17440b0f834.png'></a>
+
 
 
